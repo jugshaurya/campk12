@@ -83,6 +83,54 @@ function App() {
               libero harum quam recusandae, sit unde non corrupti impedit
               repellat, illo est labore atque dolor reiciendis.
             </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+              libero harum quam recusandae, sit unde non corrupti impedit
+              repellat, illo est labore atque dolor reiciendis.
+            </p>
             {/* <section className="one">
               <ShowSliderSection />
             </section> */}
@@ -90,6 +138,19 @@ function App() {
               <ShowCardsSection />
             </section>
           </main>
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+            libero harum quam recusandae, sit unde non corrupti impedit
+            repellat, illo est labore atque dolor reiciendis.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+            Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
+            libero harum quam recusandae, sit unde non corrupti impedit
+            repellat, illo est labore atque dolor reiciendis.
+          </p>
         </div>
         <footer className="Rectangle">
           <span className="Questions-Contact-u">
