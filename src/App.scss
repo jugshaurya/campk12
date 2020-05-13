@@ -1,6 +1,7 @@
 .App {
   // background: green;
   width: 1440px;
+  box-sizing: border-box;
   .BG_Header {
     width: 1440px;
     height: 773px;
@@ -11,7 +12,7 @@
       width: 80%;
 
       nav {
-        padding-top: 55px;
+        padding-top: 51px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -22,6 +23,7 @@
           object-fit: contain;
           background: url("./assets/camp-k-12-logo.svg");
           margin-right: auto;
+          margin-bottom: 4px;
         }
 
         .Leaderboard {
@@ -38,6 +40,20 @@
           object-fit: contain;
           margin-right: 20px;
           background: url("./assets/group-36.svg");
+          position: relative;
+          .Oval {
+            position: absolute;
+            top: -7px;
+            right: -7px;
+            text-align: center;
+            padding: 2px;
+            font-size: smaller;
+            width: 14px;
+            height: 14px;
+            background-color: #ff677f;
+            border-radius: 50%;
+            color: white;
+          }
         }
 
         .Rectangle-17 {
@@ -86,51 +102,218 @@
           background: url("./assets/shape.svg");
         }
       }
+
+      header {
+        display: flex;
+        justify-content: space-between;
+        .left {
+          margin-top: 114px;
+
+          .Welcome-to-the-school {
+            width: 533px;
+            height: 120px;
+            font-family: Montserrat;
+            font-size: 52px;
+            font-weight: 500;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.15;
+            letter-spacing: 0.22px;
+            color: #ffffff;
+          }
+
+          .Cutting-edge-technol {
+            margin-top: 35px;
+            width: 658px;
+            height: 102px;
+            font-family: Montserrat;
+            font-size: 24px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.42;
+            letter-spacing: 0.24px;
+            color: #ffffff;
+          }
+          .Cutting-edge-technol .text-style-1 {
+            color: #fcda55;
+          }
+          .CampK12Coins-Copy-2 {
+            width: 34px;
+            font-size: 0px;
+            height: 34px;
+            display: inline-flex;
+            justify-content: flex-end;
+            align-content: flex-end;
+            vertical-align: bottom;
+            object-fit: contain;
+          }
+        }
+        .right {
+          margin-top: 83px;
+          .Header-Photo {
+            width: 468px;
+            height: 298px;
+            object-fit: contain;
+            background: url("./assets/header-photo.jpg");
+          }
+        }
+      }
+
+      // ShowCardsSection
+
+      .ShowCardsSection {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .one {
+          height: 44px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .Upcoming-online-cour {
+            width: 420px;
+            font-family: Montserrat;
+            font-size: 32px;
+            font-weight: 500;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.38;
+            letter-spacing: 0.18px;
+            color: black;
+            margin-right: 27px;
+          }
+
+          .Rectangle {
+            width: 87px;
+            height: 34px;
+            margin-top: 4px;
+            margin-bottom: 6px;
+            background-color: #de9dff;
+            border-radius: 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .Oval {
+              width: 8px;
+              height: 8px;
+              border-radius: 4px;
+              background-color: #ffffff;
+              margin-right: 8px;
+            }
+
+            .LIVE {
+              width: 42px;
+              height: 44px;
+              font-family: Montserrat;
+              font-size: 18px;
+              font-weight: 600;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: 2.44;
+              letter-spacing: 0.1px;
+              text-align: center;
+              color: #ffffff;
+            }
+          }
+        }
+        .two {
+          .Learn-from-live-teac {
+            width: 746px;
+            height: 26px;
+            font-family: Montserrat;
+            font-size: 17px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.53;
+            letter-spacing: 0.2px;
+            text-align: center;
+            color: #777b8c;
+          }
+        }
+        .three {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .threea {
+            .shield-3 {
+              width: 16px;
+              height: 19px;
+              object-fit: contain;
+              background: url("./assets/skill-icon.svg");
+              box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.15);
+              vertical-align: center;
+            }
+
+            .a1st-century-skill {
+              width: 278px;
+              height: 26px;
+              font-family: Montserrat;
+              font-size: 17px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: 1.53;
+              letter-spacing: 0.2px;
+              color: #777b8c;
+            }
+          }
+
+          .threeb {
+            margin-left: 28px;
+            .CampK12Coins-Copy-2 {
+              width: 24px;
+              height: 24px;
+              object-fit: contain;
+              vertical-align: bottom;
+            }
+
+            .coins-youll-earn {
+              width: 287px;
+              height: 26px;
+              font-family: Montserrat;
+              font-size: 17px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: 1.53;
+              letter-spacing: 0.2px;
+              color: #777b8c;
+            }
+          }
+        }
+        .cards {
+        }
+      }
     }
 
-    // .Rectangle-24 {
-    //   width: 1440px;
-    //   height: auto;
-    //   z-index: -1;
-    //   position: absolute;
-    //   top: 0;
-    //   left: 0;
-    //   background-image: linear-gradient(to bottom, #eef9ff -10%, #ade1ff);
-    // }
-  }
-}
+    footer.Rectangle {
+      width: 1440px;
+      height: 41px;
+      padding-top: 25px;
+      padding-bottom: 22px;
+      text-align: center;
+      background-image: linear-gradient(82deg, #207cee -3%, #73caf3 119%);
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+      .Questions-Contact-u {
+        width: 466px;
+        height: 44px;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 2.2;
+        letter-spacing: 0.11px;
+        text-align: center;
+        color: #ffffff;
+      }
+      .Questions-Contact-u .text-style-1 {
+        font-weight: bold;
+      }
+    }
   }
 }
