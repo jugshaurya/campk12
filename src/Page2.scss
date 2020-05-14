@@ -1,0 +1,542 @@
+.Page2 {
+  height: 220vh;
+  background-image: linear-gradient(to bottom, #eef9ff -10%, #ade1ff);
+  .BG_Header {
+    width: 1440px;
+    height: 599px;
+    background: url("./assets/header-background.svg");
+    object-fit: contain;
+
+    .wrapper {
+      margin: 0 auto;
+      width: 83%;
+
+      nav {
+        padding-top: 36px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .CampK12-Logo {
+          width: 147px;
+          height: 30px;
+          object-fit: contain;
+          background: url("./assets/camp-k-12-logo.svg");
+          margin-bottom: 4px;
+        }
+
+        .ONLINE-COURSES {
+          width: 171px;
+          height: 24px;
+          font-family: Montserrat;
+          font-size: 15px;
+          font-weight: 600;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.33;
+          letter-spacing: 2px;
+          text-align: center;
+          margin: 0 13px;
+          margin-left: 26px;
+          color: #ffffff;
+        }
+        .Line-4 {
+          width: 30px;
+          // height: 2px;
+          border: solid 2px #ffffff;
+        }
+
+        .OFFLINE-CAMPS {
+          width: 157px;
+          height: 24px;
+          font-family: Montserrat;
+          font-size: 15px;
+          font-weight: 600;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.33;
+          letter-spacing: 2px;
+          text-align: center;
+          margin: 0 13px;
+          color: #ffffff;
+        }
+        .REFER-EARN {
+          margin: 0 13px;
+          width: 140px;
+          height: 24px;
+          font-family: Montserrat;
+          font-size: 15px;
+          font-weight: 600;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.33;
+          letter-spacing: 2px;
+          text-align: center;
+          color: #ffffff;
+          margin-right: auto;
+        }
+
+        .Leaderboard {
+          width: 34px;
+          height: 34px;
+          object-fit: contain;
+          background: url("./assets/leaderboard.svg");
+          margin-right: 16px;
+        }
+
+        .Rectangle-17 {
+          width: 124px;
+          height: 34px;
+          border-radius: 4px;
+          background-color: rgba(255, 255, 255, 0.27);
+          .FREE-TRIAL {
+            // width: 92px;
+            height: 15px;
+            opacity: 0.8;
+            font-family: Montserrat;
+            font-size: 11px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 2px;
+            text-align: center;
+            color: #ffffff;
+            padding-left: 2px;
+          }
+
+          .LOG-IN {
+            // width: 54px;
+            height: 15px;
+            opacity: 0.8;
+            font-family: Montserrat;
+            font-size: 12px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 2px;
+            text-align: center;
+            color: #ffffff;
+          }
+        }
+
+        .Group-36 {
+          width: 34px;
+          height: 34px;
+          object-fit: contain;
+          margin-right: 20px;
+          background: url("./assets/group-36.svg");
+          position: relative;
+          .Oval {
+            position: absolute;
+            top: -7px;
+            right: -7px;
+            text-align: center;
+            padding: 2px;
+            font-size: smaller;
+            width: 14px;
+            height: 14px;
+            background-color: #ff677f;
+            border-radius: 50%;
+            color: white;
+          }
+        }
+
+        .Rectangle-17 {
+          width: 104px;
+          height: 34px;
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+          background-color: #71aef3;
+          margin-right: 8px;
+          display: flex;
+          justify-content: space-evenly;
+          align-items: center;
+
+          .Skill-Icon {
+            width: 16px;
+            height: 19px;
+            object-fit: contain;
+            background: url("./assets/skill-icon.svg");
+          }
+
+          .class-100 {
+            width: 30px;
+            height: 20px;
+            font-family: Montserrat;
+            font-size: 17px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: normal;
+            letter-spacing: 0.2px;
+            color: #ffffff;
+          }
+
+          .Bitmap {
+            width: 33.5px;
+            height: 34px;
+            object-fit: contain;
+            background: url("./assets/group-36.svg");
+          }
+        }
+
+        .Shape {
+          width: 12px;
+          height: 7px;
+          object-fit: contain;
+          background-color: #fdfdfd;
+          background: url("./assets/shape.svg");
+        }
+      }
+
+      header {
+        margin-top: 84px;
+        .ONLINE-COURSES {
+          // width: 378px;
+          height: 50px;
+          font-family: Montserrat;
+          font-size: 40px;
+          font-weight: 600;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1.25;
+          letter-spacing: normal;
+          color: #ffffff;
+        }
+
+        .online-section {
+          margin-top: 32px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          .a,
+          .b,
+          .c,
+          .d {
+            .Group-40 {
+              width: 100px;
+              height: 76px;
+              object-fit: contain;
+              margin-bottom: 16px;
+              margin-right: 215px;
+            }
+
+            .Learn-interactively {
+              width: 230px;
+              height: 28px;
+              font-family: Montserrat;
+              font-size: 18px;
+              font-weight: 600;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: normal;
+              letter-spacing: normal;
+              color: #ffffff;
+              margin-bottom: 4px;
+            }
+
+            .LIVE-online-sessions {
+              width: 230px;
+              height: 45px;
+              opacity: 0.88;
+              font-family: Montserrat;
+              font-size: 14px;
+              font-weight: normal;
+              font-stretch: normal;
+              font-style: normal;
+              line-height: 1.43;
+              letter-spacing: normal;
+              color: #ffffff;
+              span {
+                text-decoration: underline;
+              }
+            }
+          }
+
+          .a {
+            margin-left: 70px;
+          }
+
+          .d {
+            margin-right: 0;
+          }
+          .a .Group-40 {
+            background: url("./assets/womana.svg");
+          }
+          .b .Group-40 {
+            width: 78px;
+            height: 78px;
+            background: url("./assets/womanb.svg");
+          }
+          .c .Group-40 {
+            width: 76px;
+            height: 76px;
+            background: url("./assets/womanc.svg");
+          }
+          .d .Group-40 {
+            width: 76px;
+            height: 76px;
+            background: url("./assets/womand.svg");
+          }
+        }
+
+        .Color-Copy-2 {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 291px;
+          height: 48px;
+          border-radius: 4px;
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.18);
+          background-color: #f5a623;
+          margin-top: 32px;
+          margin-bottom: 66px;
+
+          .BOOK-A-FREE-TRIAL {
+            width: 164px;
+            height: 20px;
+            font-family: Montserrat;
+            font-size: 12px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.67;
+            letter-spacing: 2px;
+            text-align: center;
+            color: #ffffff;
+          }
+        }
+      }
+
+      main {
+        section.one {
+          position: relative;
+          .grades {
+            display: flex;
+            position: absolute;
+            top: -24px;
+            left: 400px;
+
+            .Rectangle {
+              // width: 421px;
+              width: 140px;
+              height: 48px;
+              border-radius: 4px;
+              box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.09);
+              border: solid 1px #d8e4eb;
+              background-color: #ffffff;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              .Grades-Sub {
+                width: 140px;
+                height: 15px;
+                font-family: Montserrat;
+                font-size: 12px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: 0.5px;
+                text-align: center;
+                color: #1f2a55;
+              }
+              &.selected {
+                height: 48px;
+                background-color: #076fec;
+                border-top: 2px solid #076fec;
+                color: #ffffff;
+                font-weight: bolder !important;
+              }
+            }
+
+            .slider {
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              .What-do-you-want-to {
+                text-align: center;
+                margin-top: 84px;
+                width: 454px;
+                height: 44px;
+                font-family: Montserrat;
+                font-size: 32px;
+                font-weight: 500;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: 1.38;
+                letter-spacing: 0.18px;
+                text-align: center;
+                color: #ffffff;
+              }
+
+              .items {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .Background-Color {
+                  width: 48px;
+                  height: 48px;
+                  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+                  border: solid 1px #ebebeb;
+                  background-color: #ffffff;
+                  margin: 0 65px;
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  .Shape {
+                    width: 24px;
+                    height: 16px;
+                    object-fit: contain;
+                    // background-color: #076fec;
+                    background: url("./assets/back.svg");
+                    &.rot {
+                      transform: rotate(180deg);
+                    }
+                  }
+                }
+                .Rectangle-16 {
+                  margin-right: 17px;
+                  width: 208px;
+                  display: flex;
+                  flex-direction: column;
+                  justify-content: center;
+                  align-items: center;
+                  height: 228px;
+                  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+                  border: solid 1px #ebebeb;
+                  background-color: #ffffff;
+                  .Group-14 {
+                    width: 108px;
+                    height: 108px;
+                    object-fit: contain;
+                    &.a {
+                      background: url("./assets/aslider.svg");
+                    }
+                    &.b {
+                      background: url("./assets/bslider.svg");
+                    }
+                    &.c {
+                      background: url("./assets/cslider.svg");
+                    }
+                    &.d {
+                      background: url("./assets/dslider.svg");
+                    }
+                  }
+
+                  .name {
+                    width: 160px;
+                    height: 56px;
+                    font-family: Montserrat;
+                    font-size: 20px;
+                    font-weight: normal;
+                    font-stretch: normal;
+                    font-style: normal;
+                    line-height: 1.4;
+                    letter-spacing: 0.2px;
+                    text-align: center;
+                    color: #1f2a55;
+                    margin: 8px;
+                  }
+                }
+              }
+            }
+          }
+
+          .Rectangle-Copy-5 {
+            width: 1205px;
+            height: 1207px;
+            border-radius: 4px;
+            box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.15);
+            background-color: #ffffff;
+            margin-bottom: 116px;
+
+            .search {
+              padding-top: 65px;
+              margin-left: 66px;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              .Showing-All-courses {
+                width: 887px;
+                height: 18px;
+                font-family: Montserrat;
+                font-size: 14px;
+                font-weight: normal;
+                font-stretch: normal;
+                font-style: normal;
+                line-height: normal;
+                letter-spacing: normal;
+                color: #1f2a55;
+              }
+              .Showing-All-courses .text-style-1 {
+                font-weight: 600;
+              }
+
+              .Rectangle-Copy-3 {
+                width: 238px;
+                height: 40px;
+                margin-right: 69px;
+                border-radius: 4px;
+                border: solid 1px #d8e4eb;
+                background-color: #ffffff;
+                display: flex;
+                justify-content: space-between;
+                padding: 0 8px;
+                align-items: center;
+                .All-Courses {
+                  // width: 76px;
+                  height: 15px;
+                  font-family: Montserrat;
+                  font-size: 12px;
+                  font-weight: normal;
+                  font-stretch: normal;
+                  font-style: normal;
+                  line-height: normal;
+                  letter-spacing: 0.5px;
+                  color: #1f2a55;
+                }
+
+                .Shape {
+                  width: 12px;
+                  height: 7px;
+                  object-fit: contain;
+                  border-radius: 1px;
+                  color: #1f2a55;
+                  background: url("./assets/darrow.svg");
+                }
+              }
+            }
+
+            .cards {
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              align-items: center;
+              .Card-2-Copy-8 {
+                width: 330px;
+                height: 477px;
+                margin: 40px 0;
+                object-fit: contain;
+                background: url("./assets/card-2-copy-8.svg");
+                &.A {
+                  margin-left: 66px;
+                }
+                &.B {
+                  margin: 0 40px;
+                }
+                &.C {
+                  margin-right: 69px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

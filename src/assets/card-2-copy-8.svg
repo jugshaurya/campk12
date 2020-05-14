@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="330" height="477" viewBox="0 0 330 477">
+    <defs>
+        <linearGradient id="prefix__b" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#00B1FF"/>
+            <stop offset="100%" stop-color="#00D3D9"/>
+        </linearGradient>
+        <path id="prefix__a" d="M4 0h322c2.21 0 4 1.79 4 4v134H0V4c0-2.21 1.79-4 4-4z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect width="328.997" height="475.997" x=".502" y=".502" fill="#FFF" stroke="#EBEBEB" stroke-width="1.003" rx="4"/>
+        <g>
+            <text fill="#1F2A55" font-family="Montserrat-SemiBold, Montserrat" font-size="20" font-weight="500" letter-spacing=".1" transform="translate(20 373)">
+                <tspan x="20" y="19">9999</tspan>
+            </text>
+            <path fill="#1F2A55" fill-rule="nonzero" stroke="#1F2A55" stroke-width=".5" d="M11.988 7.842H9.371c.502.453.853 1.042.946 1.705h1.671v.832h-1.66c-.221 1.442-1.588 2.547-3.236 2.547h-.97L10.574 17h-1.32L5 13.105v-1.02h2.092c1.133 0 2.092-.727 2.302-1.706H5v-.832h4.394c-.222-.979-1.169-1.705-2.302-1.705H5V7h7v.842h-.012z" transform="translate(20 373)"/>
+            <g>
+                <text fill="#1F2A55" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" letter-spacing=".1" opacity=".6" transform="translate(20 373) translate(75 2)">
+                    <tspan x="0" y="15">12000</tspan>
+                </text>
+                <path stroke="#797F99" stroke-linecap="round" stroke-linejoin="round" d="M0.5 10.598L48.5 10.598" transform="translate(20 373) translate(75 2)"/>
+            </g>
+            <g fill="#019977">
+                <g fill-rule="nonzero">
+                    <path d="M9.736 9.191c-.425 0-.766.34-.766.766s.34.766.766.766c.443 0 .766-.34.766-.766 0-.425-.34-.766-.766-.766zM6.264 6.791c.425 0 .766-.323.766-.748 0-.426-.34-.766-.766-.766-.443 0-.766.323-.766.749 0 .425.34.765.766.765z" transform="translate(20 373) translate(209 2) translate(0 2)"/>
+                    <path d="M15.753 7.165l-.6-.891c-.052-.103-.069-.206-.069-.326l.069-1.08c.034-.617-.292-1.183-.84-1.457l-.96-.48c-.103-.051-.171-.12-.223-.223l-.497-.994c-.274-.548-.857-.874-1.457-.84l-1.08.069c-.103 0-.223-.017-.308-.086l-.926-.6c-.514-.343-1.166-.343-1.697 0l-.891.6c-.12.051-.223.069-.343.069L4.85.857c-.617-.017-1.183.309-1.474.857l-.48.96c-.052.103-.12.171-.223.223l-.96.48c-.548.274-.874.857-.84 1.457l.069 1.08c0 .103-.017.223-.086.308l-.6.926c-.343.514-.343 1.183 0 1.697l.6.891c.051.12.069.223.069.343l-.069 1.08c-.017.617.309 1.183.857 1.474l.96.48c.103.051.171.137.223.223l.48.96c.274.548.857.874 1.457.84l1.08-.069c.103 0 .223.017.308.086l.892.583c.257.171.548.257.84.257.29 0 .582-.086.84-.257l.89-.6c.086-.052.206-.086.31-.086l1.08.068c.616.035 1.182-.29 1.456-.84l.48-.96c.052-.102.12-.17.223-.222l.96-.48c.548-.274.874-.857.84-1.457l-.035-1.063c0-.103.018-.223.086-.308l.583-.909c.429-.548.429-1.217.086-1.714zM6.257 4.337c.925 0 1.68.754 1.68 1.68 0 .925-.755 1.68-1.68 1.68-.943 0-1.68-.738-1.68-1.68 0-.926.754-1.68 1.68-1.68zm-.84 6.873c-.086.086-.206.137-.326.137-.103 0-.223-.051-.326-.137-.188-.171-.188-.463 0-.634l5.794-5.794c.171-.188.463-.188.634 0 .172.189.172.463-.017.635l-5.76 5.793zm4.336.463c-.925 0-1.68-.754-1.68-1.68 0-.925.755-1.68 1.68-1.68.943 0 1.68.738 1.68 1.68 0 .926-.754 1.68-1.68 1.68z" transform="translate(20 373) translate(209 2) translate(0 2)"/>
+                </g>
+                <text font-family="Montserrat-SemiBold, Montserrat" font-size="16" font-weight="500" letter-spacing=".114" transform="translate(20 373) translate(209 2)">
+                    <tspan x="24" y="15">16</tspan> <tspan x="40.357" y="15" font-family="Montserrat-Medium, Montserrat" font-weight="400">%</tspan> <tspan x="53.959" y="15" font-family="Montserrat-Regular, Montserrat" font-weight="normal"> </tspan> <tspan x="58.265" y="15" font-family="Montserrat-Medium, Montserrat" font-weight="400">off</tspan>
+                </text>
+            </g>
+        </g>
+        <g>
+            <g>
+                <text fill="#1F2A55" font-family="Montserrat-Regular, Montserrat" font-size="14" letter-spacing=".165" transform="translate(20 266) translate(1 33)">
+                    <tspan x="34" y="48">Weekend and Weekday Batches</tspan>
+                </text>
+                <g>
+                    <text fill="#1F2A55" font-family="Montserrat-SemiBold, Montserrat" font-size="14" font-weight="500" letter-spacing=".165" transform="translate(20 266) translate(1 33) translate(2 .983)">
+                        <tspan x="32" y="14">12 Hours</tspan> <tspan x="93.616" y="14" font-family="Montserrat-Regular, Montserrat" font-weight="normal"> over 6 Sessions</tspan>
+                    </text>
+                    <path fill="#A5AABB" d="M1.99 13.293c.297-1.619 1.025-2.902 2.316-4.162l.647-.632-.647-.631c-1.722-1.68-2.444-3.402-2.474-5.903.971.176 2.252.284 3.657.284 1.404 0 2.685-.108 3.656-.284-.03 2.501-.752 4.222-2.474 5.903l-.647.631.647.631c1.292 1.261 2.02 2.545 2.317 4.163.099.538.149 1.113.156 1.737-.146-.026-.299-.051-.458-.074-.01-.505.019-.563-.119-1.413-.092-.567-1.118-1.318-3.079-2.254-1.95.872-2.976 1.623-3.078 2.254-.153.945-.11.91-.119 1.416-.16.023-.312.048-.458.075.008-.625.058-1.203.157-1.741zM5.489.017c3.03 0 5.488.5 5.488 1.116 0 .228-.337.44-.915.617v.052c0 3.125-1.006 5.001-2.744 6.697 1.726 1.684 2.745 3.571 2.745 6.697v.046c.591.178.937.392.937.623 0 .617-2.462 1.116-5.506 1.116-3.037 0-5.494-.5-5.494-1.116 0-.025.006-.05.014-.075l.007-.02c.01-.022.022-.046.038-.069l.003-.004c.018-.024.041-.048.067-.072l.02-.018c.026-.021.053-.042.083-.063l.012-.008c.034-.023.073-.045.114-.067l.034-.018c.037-.018.076-.037.117-.055l.026-.012c.05-.02.101-.04.156-.06l.05-.018c.045-.016.092-.031.14-.046l.034-.012v-.052c0-3.126 1.007-5.001 2.744-6.697C1.934 6.815.915 4.927.915 1.802V1.75C.337 1.573 0 1.36 0 1.133 0 .516 2.457.017 5.489.017zm0 6.428c-.91 0-1.647.104-1.647.232 0 .008.487.592.777.878l.87.855.87-.855c.29-.285.776-.87.776-.878 0-.128-.737-.232-1.646-.232z" opacity=".819" transform="translate(20 266) translate(1 33) translate(2 .983)"/>
+                </g>
+                <path fill="#A5AABB" fill-rule="nonzero" d="M10.259 37.398c.786.481 1.337 1.296 1.437 2.241.32.146.677.23 1.054.23 1.377 0 2.493-1.09 2.493-2.434 0-1.345-1.116-2.435-2.493-2.435-1.364 0-2.47 1.07-2.491 2.398zm-1.634 4.985c1.377 0 2.494-1.09 2.494-2.435 0-1.344-1.117-2.434-2.494-2.434-1.377 0-2.493 1.09-2.493 2.435 0 1.344 1.116 2.434 2.493 2.434zm1.058.166H7.567c-1.76 0-3.192 1.399-3.192 3.118v2.526l.007.04.178.054c1.68.513 3.14.684 4.34.684 2.347 0 3.706-.653 3.79-.695l.167-.082h.018v-2.527c0-1.72-1.432-3.118-3.192-3.118zm4.125-2.513h-2.1c-.022.82-.38 1.558-.948 2.09 1.565.454 2.71 1.87 2.71 3.544v.78c2.072-.075 3.267-.649 3.346-.687l.166-.083H17v-2.527c0-1.719-1.432-3.117-3.192-3.117zM4.25 39.87c.487 0 .941-.14 1.326-.376.122-.778.549-1.459 1.16-1.922.002-.045.006-.09.006-.137 0-1.344-1.116-2.434-2.492-2.434-1.378 0-2.494 1.09-2.494 2.434 0 1.345 1.116 2.435 2.494 2.435zm2.239 2.256c-.565-.529-.922-1.264-.948-2.079-.078-.005-.155-.011-.234-.011H3.192C1.432 40.036 0 41.434 0 43.153v2.527l.007.039.178.055c1.347.41 2.55.6 3.595.66v-.764c0-1.673 1.145-3.09 2.71-3.544z" transform="translate(20 266) translate(1 33)"/>
+            </g>
+            <text fill="#1F2A55" font-family="Montserrat-SemiBold, Montserrat" font-size="14" font-weight="500" transform="translate(20 266)">
+                <tspan x="35" y="14">5.6k</tspan> <tspan x="64.274" y="14" font-family="Montserrat-Regular, Montserrat" font-weight="normal"> Happy Students </tspan>
+            </text>
+            <path fill="#FFC628" fill-rule="nonzero" stroke="#FFC628" stroke-width=".5" d="M18.838 2.19c-.113-.125-.285-.19-.503-.19h-.063c-1.108.053-2.213.11-3.322.162-.148.008-.35.016-.51.182-.052.052-.09.113-.122.186-.164.368.066.607.176.72l.277.291c.191.202.386.404.581.603l-6.698 6.944-3.01-3.118c-.18-.186-.421-.292-.679-.292-.257 0-.495.106-.675.292L.281 12.12c-.375.388-.375 1.014 0 1.403l.18.186c.18.186.421.291.679.291.257 0 .496-.105.675-.291l3.15-3.264 3.01 3.118c.18.186.421.291.68.291.257 0 .495-.105.678-.29l7.557-7.83.855.88c.102.106.242.252.457.252.09 0 .18-.025.273-.077.063-.037.117-.077.164-.126.168-.174.2-.396.207-.57.031-.744.066-1.488.102-2.237l.05-1.12c.012-.234-.039-.416-.16-.546z" transform="translate(20 266)"/>
+        </g>
+        <g fill="#1F2A55" font-family="Montserrat-SemiBold, Montserrat" font-size="12" font-weight="500">
+            <g>
+                <text fill-opacity=".4" letter-spacing=".169" transform="translate(17 219) translate(85)">
+                    <tspan x="0" y="12">GRADES</tspan>
+                </text>
+                <text letter-spacing=".141" transform="translate(17 219) translate(85)">
+                    <tspan x="62" y="12">5 - 8</tspan>
+                </text>
+            </g>
+            <text fill-opacity=".4" letter-spacing=".169" transform="translate(17 219)">
+                <tspan x="0" y="12">LEVEL</tspan>
+            </text>
+            <text letter-spacing=".141" transform="translate(17 219)">
+                <tspan x="48" y="12">1</tspan>
+            </text>
+        </g>
+        <text fill="#076FEC" font-family="Montserrat-SemiBold, Montserrat" font-size="14" font-weight="500" letter-spacing="2">
+            <tspan x="105" y="453">LEARN MORE</tspan>
+        </text>
+        <path stroke="#EBEBEB" stroke-linecap="square" d="M18 249.499L316 249.499"/>
+        <use fill="url(#prefix__b)" opacity=".159" xlink:href="#prefix__a"/>
+        <text fill="#1F2A55" font-family="Montserrat-SemiBold, Montserrat" font-size="18" font-weight="500" letter-spacing=".195" transform="translate(16 154)">
+            <tspan x="0" y="17.909">AI &amp; Machine Learning: </tspan> <tspan x="0" y="41.909">Code Intelligent Bots</tspan>
+        </text>
+        <path stroke="#EBEBEB" stroke-linecap="square" d="M16 419L314 419"/>
+    </g>
+</svg>
