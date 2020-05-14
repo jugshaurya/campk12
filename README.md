@@ -1,3 +1,12 @@
+## Campk12 Assignment
+
+- layout build for 1440px
+- used zeplin for UI/UX
+
+### ....
+
+![](./a.png)
+![](./b.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
