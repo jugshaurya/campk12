@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.scss";
 import ShowCardsSection from "./ShowCardsSection";
+import ShowSliderSection from "./ShowSliderSection";
 import { ReactComponent as Coin } from "./assets/camp-k-12-coins-copy-2.svg";
 
 function App() {
@@ -41,116 +42,13 @@ function App() {
             </div>
           </header>
           <main>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-              libero harum quam recusandae, sit unde non corrupti impedit
-              repellat, illo est labore atque dolor reiciendis.
-            </p>
-            {/* <section className="one">
+            <section className="one">
               <ShowSliderSection />
-            </section> */}
+            </section>
             <section className="two">
               <ShowCardsSection />
             </section>
           </main>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-            libero harum quam recusandae, sit unde non corrupti impedit
-            repellat, illo est labore atque dolor reiciendis.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Accusantium dolore, voluptatibus necessitatibus blanditiis ipsum
-            libero harum quam recusandae, sit unde non corrupti impedit
-            repellat, illo est labore atque dolor reiciendis.
-          </p>
         </div>
         <footer className="Rectangle">
           <span className="Questions-Contact-u">
